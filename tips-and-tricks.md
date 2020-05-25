@@ -3,6 +3,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and
 install laravel composer: ``` composer create-project --prefer-dist laravel/laravel .```
 ###Artisan  
 see artisan: ```php artisan```
+
 generate key: ````php artisan key:generate````
 ###Docker   
 start containers ```docker-compose up```
